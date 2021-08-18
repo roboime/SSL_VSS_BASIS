@@ -1,0 +1,3 @@
+[submodule "VSS_AI_Core"]
+	path = VSS_AI_Core
+	url = https://github.com/roboime/VSS_AI_Core.git
